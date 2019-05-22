@@ -1,0 +1,4 @@
+Instructions
+
+1. Run program and input the number of lights needed. Note: Pressing 0 will add 20 lights.
+2. Use the number index to pick a sequence for turning the lights on/off. Note: The sequences will be infinite.
